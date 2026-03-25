@@ -1,0 +1,72 @@
+{
+  "_widgetId": "b63b1b6f-206e-46cf-b846-ece184a8d01a",
+  "_networkId": "f3cdeaed-7c8c-4a36-865d-1c20f13bd9d9",
+  "company": {
+    "name": "Votre Entreprise",
+    "slogan": "Reprogrammation Éthanol E85",
+    "logo": "",
+    "website": "",
+    "phone": ""
+  },
+  "colors": {
+    "primary": "#44b036",
+    "secondary": "#222222",
+    "text": "#555555",
+    "background": "#ffffff",
+    "border": "#e5e7eb"
+  },
+  "texts": {
+    "formTitle": "Demande de devis",
+    "submitButton": "Envoyer ma demande",
+    "successMessage": "Demande envoyée !",
+    "successSubMessage": "Nous vous contacterons très prochainement.",
+    "privacyNotice": "Vos informations sont protégées et ne seront jamais partagées."
+  },
+  "products": [
+    {
+      "id": "ec913112-f95b-4129-aec8-1862681ac9f2",
+      "name": "Reprogrammation Éthanol E85",
+      "image": "https://zjlhpnnjfiwmugvpqsld.supabase.co/storage/v1/object/public/widget-assets/product-1773782840057.webp"
+    }
+  ],
+  "materials": [],
+  "projectTypes": [],
+  "form": {
+    "rateLimitTime": 30000,
+    "maxSubmissions": 5
+  },
+  "legal": {
+    "companyLegalName": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "siret": "",
+    "privacyPolicyUrl": "#",
+    "termsUrl": "#"
+  },
+  "telegram": {
+    "enabled": true,
+    "chatId": ""
+  },
+  "contact": {
+    "showButton": false,
+    "displayName": "",
+    "phone": "",
+    "email": ""
+  },
+  "geoRestriction": {
+    "enabled": false,
+    "allowedDepartments": []
+  },
+  "notifications": {
+    "confirmationEmail": false
+  },
+  "steps": {
+    "products": true,
+    "material": false,
+    "projectType": false,
+    "location": true,
+    "civility": true,
+    "photos": false
+  }
+}

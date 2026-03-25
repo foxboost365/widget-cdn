@@ -1,0 +1,97 @@
+{
+  "_widgetId": "2f65e994-c218-4b47-9528-40365b433bda",
+  "_networkId": null,
+  "company": {
+    "name": "KB Menuiseries",
+    "slogan": "Menuiseries sur mesure",
+    "logo": "",
+    "website": "",
+    "phone": ""
+  },
+  "colors": {
+    "primary": "#b19036",
+    "secondary": "#222222",
+    "text": "#555555",
+    "background": "#ffffff",
+    "border": "#e5e7eb"
+  },
+  "texts": {
+    "formTitle": "Demande de devis",
+    "submitButton": "Envoyer ma demande",
+    "successMessage": "Demande envoyée !",
+    "successSubMessage": "Merci de votre confiance.",
+    "privacyNotice": "Vos informations sont protégées et ne seront jamais partagées."
+  },
+  "products": [
+    {
+      "id": "93051d1c-5309-4520-bbe8-7ce18a293f26",
+      "name": "Fenêtre",
+      "image": "https://sfpfuzvberekeejepfts.supabase.co/storage/v1/object/public/widget-assets/product-1770071766175.webp"
+    },
+    {
+      "id": "f36aa88d-36fe-4419-8d33-984d75f4ce2c",
+      "name": "Porte",
+      "image": "https://sfpfuzvberekeejepfts.supabase.co/storage/v1/object/public/widget-assets/product-1770372513924.webp"
+    },
+    {
+      "id": "fd54a6d0-86bf-483f-9725-2058e986195f",
+      "name": "Volet",
+      "image": "https://sfpfuzvberekeejepfts.supabase.co/storage/v1/object/public/widget-assets/product-1770372879923.webp"
+    },
+    {
+      "id": "7134fcbd-1fb6-4754-b973-dcb63e51f0e5",
+      "name": "Portail",
+      "image": "https://sfpfuzvberekeejepfts.supabase.co/storage/v1/object/public/widget-assets/product-1770373794071.webp"
+    }
+  ],
+  "materials": [
+    "Bois",
+    "PVC",
+    "Aluminium"
+  ],
+  "projectTypes": [
+    "Rénovation",
+    "Neuf"
+  ],
+  "form": {
+    "rateLimitTime": 30000,
+    "maxSubmissions": 5
+  },
+  "legal": {
+    "companyLegalName": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "siret": "",
+    "privacyPolicyUrl": "#",
+    "termsUrl": "#"
+  },
+  "telegram": {
+    "enabled": false,
+    "chatId": ""
+  },
+  "contact": {
+    "showButton": true,
+    "displayName": "florent kb menuiseries",
+    "phone": "0609790044",
+    "email": "contact@kbmenuiseries"
+  },
+  "geoRestriction": {
+    "enabled": false,
+    "allowedDepartments": [
+      "34",
+      "11"
+    ]
+  },
+  "notifications": {
+    "confirmationEmail": false
+  },
+  "steps": {
+    "products": true,
+    "material": true,
+    "projectType": true,
+    "location": true,
+    "civility": true,
+    "photos": true
+  }
+}

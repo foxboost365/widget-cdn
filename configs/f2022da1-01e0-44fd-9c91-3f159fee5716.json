@@ -1,0 +1,114 @@
+{
+  "_widgetId": "f2022da1-01e0-44fd-9c91-3f159fee5716",
+  "_networkId": null,
+  "company": {
+    "name": "Votre Entreprise",
+    "slogan": "Menuiseries sur mesure",
+    "logo": "",
+    "website": "",
+    "phone": ""
+  },
+  "colors": {
+    "primary": "#b19036",
+    "secondary": "#222222",
+    "text": "#555555",
+    "background": "#ffffff",
+    "border": "#e5e7eb"
+  },
+  "texts": {
+    "formTitle": "Demande de devis",
+    "submitButton": "Envoyer ma demande",
+    "successMessage": "Demande envoyée !",
+    "successSubMessage": "Nous vous contacterons très prochainement.",
+    "privacyNotice": "Vos informations sont protégées et ne seront jamais partagées."
+  },
+  "products": [
+    {
+      "id": "8ab33669-ca19-4029-b6cd-7fe8d146a941",
+      "name": "Fenêtre",
+      "image": ""
+    },
+    {
+      "id": "d3a10f26-6d30-4c23-9b9a-4e1169783136",
+      "name": "Porte",
+      "image": ""
+    },
+    {
+      "id": "6a623e01-c27d-49c6-8ad4-3db9641fc17c",
+      "name": "Volet",
+      "image": ""
+    },
+    {
+      "id": "44dcebe1-e3f9-44fa-a32e-1ac9addb561a",
+      "name": "Portail",
+      "image": ""
+    },
+    {
+      "id": "bf2faeec-e491-4978-98bc-179ebcb1abfd",
+      "name": "Pergola",
+      "image": ""
+    },
+    {
+      "id": "bfa423bc-47f8-43a9-9f48-eda6204a84ab",
+      "name": "Store",
+      "image": ""
+    },
+    {
+      "id": "b3e7ac35-407b-46e7-bc7a-f8030d598b85",
+      "name": "Moustiquaire",
+      "image": ""
+    },
+    {
+      "id": "3ce9fd53-9e9b-4fba-ba73-40a2788ea0b5",
+      "name": "Porte de garage",
+      "image": ""
+    }
+  ],
+  "materials": [
+    "Bois",
+    "PVC",
+    "Aluminium"
+  ],
+  "projectTypes": [
+    "Rénovation",
+    "Neuf"
+  ],
+  "form": {
+    "rateLimitTime": 30000,
+    "maxSubmissions": 5
+  },
+  "legal": {
+    "companyLegalName": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "siret": "",
+    "privacyPolicyUrl": "#",
+    "termsUrl": "#"
+  },
+  "telegram": {
+    "enabled": false,
+    "chatId": ""
+  },
+  "contact": {
+    "showButton": true,
+    "displayName": "",
+    "phone": "",
+    "email": ""
+  },
+  "geoRestriction": {
+    "enabled": false,
+    "allowedDepartments": []
+  },
+  "notifications": {
+    "confirmationEmail": false
+  },
+  "steps": {
+    "products": true,
+    "material": true,
+    "projectType": true,
+    "location": true,
+    "civility": true,
+    "photos": true
+  }
+}

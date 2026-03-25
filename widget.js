@@ -4,7 +4,7 @@
  */
 (function() {
   var config = window.BloomingWidgetConfig || {};
-  var baseUrl = config.baseUrl || 'https://foxboost365.github.io/widget-cdn';
+  var baseUrl = config.baseUrl || 'https://zjlhpnnjfiwmugvpqsld.supabase.co/storage/v1/object/public/widget-assets';
   var timestamp = Date.now();
 
   // Charger le CSS avec cache-busting
